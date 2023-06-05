@@ -1,0 +1,15 @@
+Cepillo,3,4,12
+Gaseosa,5,2,10
+Hojas,100,1,100
+Cepillo,2,4,8
+Tasa,4,2,8
+Mouse,2,20,40
+Teclado,2,25,50
+Esponja,5,2,10
+Franela,7,2,14
+Pegamento,4,3,12
+Lapiz,6,2,12
+Borrador,5,1,5
+Leche,3,5,15
+Leche,3,5,15
+Leche,3,5,15
