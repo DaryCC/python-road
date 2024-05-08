@@ -1,5 +1,5 @@
 def insertion_sort(A):
-    for  i in range(1,len(A)):
+    for  i in range(len(A)):
         print(i)
         for j in range(i-1,0,-1):
             print(j)
